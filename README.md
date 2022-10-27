@@ -1,6 +1,6 @@
 # Introduction: -
 
-Creating different regression models to predict the price of a house and finding the accuracy for each of these models to see how the different models compare to one another.
+Creating different regression models to predict the price of a house and finding the R-Squared Error and the Mean Absolute Error for each of these models to see how the different models compare to one another.
 This is a Supervised Machine Learning Problem.
 The different steps involved are  -> 
 
