@@ -12,9 +12,9 @@ The different steps involved are  ->
 
 4.) Splitting Data into Training and Test data.
 
-5.) Training the different classification models.
+5.) Training the different regression models.
 
-6.) Evaluating each of these models to find their respective accuracy scores using training and testing data.
+6.) Evaluating each of these models to find their respective R-Squared error and Mean Absolute error using training and testing data.
 
 
 ## Prerequirements for the code file: -
